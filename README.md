@@ -1,11 +1,11 @@
-<p><b>E-Commerce Project 🛒</b></p>
+# E-Commerce Project
 
 <p>
   This is a Spring Boot-based e-commerce project that provides CRUD operations for managing customers, products, and orders.
 </p>
 
 <p>
-  <b align="center">Features</b><br>
+  <b>Features</b><br>
   - Customer Management: Create, Read, Update, Delete customers.<br>
   - Product Management: Add, update, delete, and list products.<br>
   - Order Processing: Place, update, and track orders.<br>
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <b align="center">Technologies Used</b><br>
+  <b>Technologies Used</b><br>
   - <b>Spring Boot:</b> Backend framework for building REST APIs.<br>
   - <b>Spring Data JPA:</b> ORM for database interactions.<br>
   - <b>Hibernate:</b> ORM for handling persistence.<br>
@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <b align="center">Getting Started</b><br>
+  <b>Getting Started</b><br>
   - Clone the repository: <code>git clone https://github.com/your-username/ecommerce-springboot</code><br>
   - Navigate to the project directory: <code>cd ecommerce-springboot</code><br>
   - Configure the database in <code>application.properties</code>.<br>
@@ -36,6 +36,6 @@
 </p>
 
 <p>
-  <b align="center">License</b><br>
-  This project is licensed under the MIT License.
+  <b>License</b><br>
+  This project is licensed under the @2025 Kaushal B. Kadam.
 </p>
